@@ -1,0 +1,14 @@
+
+.map iframe {
+    pointer-events: none;
+    height: 70vh;
+    width: 100%;
+    border: 0;
+}
+body{
+border: 0;
+padding: 0;
+margin: 0;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+;
+}
